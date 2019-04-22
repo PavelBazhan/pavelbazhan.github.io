@@ -1,6 +1,7 @@
 html, body {
   padding: 0;
-  margin: 0
+  margin: 0;
+  overflow-y: hidden;
 }
 
 .back {
@@ -54,12 +55,12 @@ html, body {
 
 .block_inner:first-child {
   font-family: 'Merriweather', serif;
-  font-size: 3em;
+  font-size: 3vw;
 }
 
 .block_inner:nth-child(2) {
   font-family: 'Roboto', sans-serif;
-  font-size: 0.8em;
+  font-size: 0.9vw;
 }
 
 .block_inner div {
