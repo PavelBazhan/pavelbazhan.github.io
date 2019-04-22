@@ -54,12 +54,12 @@ html, body {
 
 .block_inner:first-child {
   font-family: 'Merriweather', serif;
-  font-size: 4em;
+  font-size: 3em;
 }
 
 .block_inner:nth-child(2) {
   font-family: 'Roboto', sans-serif;
-  font-size: 1em;
+  font-size: 0.8em;
 }
 
 .block_inner div {
