@@ -1,1 +1,0 @@
-Parallax Effect - simple demonstration.
